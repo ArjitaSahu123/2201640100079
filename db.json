@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Alice"
+    },
+    {
+      "id": "2",
+      "name": "Bob"
+    },
+    {
+      "id": "8a53",
+      "name": ""
+    },
+    {
+      "id": "a4f0",
+      "name": ""
+    },
+    {
+      "id": "fe18",
+      "name": ""
+    },
+    {
+      "id": "e4a4",
+      "name": "arjita"
+    },
+    {
+      "id": "db29",
+      "name": "alin"
+    }
+  ],
+  "posts": [
+    {
+      "id": "1",
+      "title": "Hello",
+      "content": "First post"
+    }
+  ]
+}
