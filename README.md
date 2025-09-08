@@ -1,4 +1,4 @@
-# Arjita-frontend (Repo: <2201640100079>)
+# (Repo: <2201640100079>)
 
 ## How to run (local)
 1. Install deps:
